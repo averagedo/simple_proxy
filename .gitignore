@@ -1,0 +1,4 @@
+main
+.vscode
+main.o
+socket.o
